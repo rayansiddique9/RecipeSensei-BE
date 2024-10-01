@@ -1,0 +1,10 @@
+.venv/
+.DS_Store
+__pycache__/
+apps.py
+tests.py
+db.sqlite3
+logs/
+.env
+media/
+
